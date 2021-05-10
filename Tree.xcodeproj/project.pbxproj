@@ -412,7 +412,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.16;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = de.crelies.Tree;
 				PRODUCT_NAME = Tree;
 				SDKROOT = macosx;
@@ -434,7 +434,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.16;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = de.crelies.Tree;
 				PRODUCT_NAME = Tree;
 				SDKROOT = macosx;
